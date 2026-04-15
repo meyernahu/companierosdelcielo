@@ -1,0 +1,23 @@
+[
+  {
+    "nombre": "San Agustín de Hipona",
+    "patronazgo": "Teólogos e impresores",
+    "festividad": "28 de Agosto",
+    "frase": "Nos hiciste, Señor, para ti, y nuestro corazón está inquieto hasta que descanse en ti.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Augustine_Lateran.jpg/800px-Augustine_Lateran.jpg"
+  },
+  {
+    "nombre": "Santa Teresa de Jesús",
+    "patronazgo": "Escritores y personas con enfermedades físicas",
+    "festividad": "15 de Octubre",
+    "frase": "Nada te turbe, nada te espante, todo se pasa, Dios no se muda.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Peter_Paul_Rubens_-_Teresa_of_%C3%81vila.jpg/800px-Peter_Paul_Rubens_-_Teresa_of_%C3%81vila.jpg"
+  },
+  {
+    "nombre": "San Francisco de Asís",
+    "patronazgo": "Animales y medio ambiente",
+    "festividad": "4 de Octubre",
+    "frase": "Comienza haciendo lo que es necesario, después lo que es posible y de repente estarás haciendo lo imposible.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Francisco_de_As%C3%ADs_%28Zubaran%29.jpg/800px-Francisco_de_As%C3%ADs_%28Zubaran%29.jpg"
+  }
+]

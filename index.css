@@ -1,0 +1,121 @@
+:root {
+    --gold: #d4af37;
+    --navy: #2c3e50;
+    --cream: #f9f7f2;
+    --white: #ffffff;
+    --gray: #7f8c8d;
+}
+
+body {
+    font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+    background-color: var(--cream);
+    color: var(--navy);
+    margin: 0;
+    line-height: 1.6;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+header {
+    background-color: var(--navy);
+    color: var(--white);
+    text-align: center;
+    padding: 3rem 1rem;
+    border-bottom: 5px solid var(--gold);
+}
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+    flex: 1; /* Esto empuja el footer hacia abajo si hay poco contenido */
+}
+
+.info-section {
+    background: var(--white);
+    padding: 2rem;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+    margin-bottom: 2rem;
+}
+
+.generator-section {
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+button {
+    background-color: var(--gold);
+    color: var(--navy);
+    border: none;
+    padding: 1rem 2rem;
+    font-size: 1.2rem;
+    font-weight: bold;
+    border-radius: 30px;
+    cursor: pointer;
+    transition: transform 0.2s, background 0.3s;
+}
+
+button:hover {
+    background-color: #c5a028;
+    transform: scale(1.05);
+}
+
+#saint-display {
+    margin-top: 2rem;
+    background: var(--white);
+    padding: 2rem;
+    border-radius: 12px;
+    border: 1px solid #eee;
+}
+
+.hidden { display: none; }
+
+#saint-photo {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 4px solid var(--gold);
+}
+
+blockquote {
+    font-style: italic;
+    font-size: 1.2rem;
+    margin-top: 1.5rem;
+    color: #555;
+    padding: 0 1rem;
+}
+
+/* --- Estilos del Footer --- */
+footer {
+    background-color: var(--navy);
+    color: var(--white);
+    text-align: center;
+    padding: 2rem 1rem;
+    margin-top: auto;
+    border-top: 3px solid var(--gold);
+}
+
+.footer-content p {
+    margin: 0.5rem 0;
+    font-size: 0.95rem;
+}
+
+.footer-content a {
+    color: var(--gold);
+    text-decoration: none;
+    transition: opacity 0.3s;
+}
+
+.footer-content a:hover {
+    text-decoration: underline;
+    opacity: 0.8;
+}
+
+.copyright {
+    font-size: 0.8rem !important;
+    color: var(--gray);
+    margin-top: 1rem !important;
+}
