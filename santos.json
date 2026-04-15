@@ -1,23 +1,702 @@
 [
   {
-    "nombre": "San Agustín de Hipona",
-    "patronazgo": "Teólogos e impresores",
-    "festividad": "28 de Agosto",
-    "frase": "Nos hiciste, Señor, para ti, y nuestro corazón está inquieto hasta que descanse en ti.",
-    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Augustine_Lateran.jpg/800px-Augustine_Lateran.jpg"
-  },
-  {
-    "nombre": "Santa Teresa de Jesús",
-    "patronazgo": "Escritores y personas con enfermedades físicas",
-    "festividad": "15 de Octubre",
-    "frase": "Nada te turbe, nada te espante, todo se pasa, Dios no se muda.",
-    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Peter_Paul_Rubens_-_Teresa_of_%C3%81vila.jpg/800px-Peter_Paul_Rubens_-_Teresa_of_%C3%81vila.jpg"
-  },
-  {
     "nombre": "San Francisco de Asís",
     "patronazgo": "Animales y medio ambiente",
     "festividad": "4 de Octubre",
     "frase": "Comienza haciendo lo que es necesario, después lo que es posible y de repente estarás haciendo lo imposible.",
     "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Francisco_de_As%C3%ADs_%28Zubaran%29.jpg/800px-Francisco_de_As%C3%ADs_%28Zubaran%29.jpg"
+  },
+  {
+    "nombre": "San Agustín de Hipona",
+    "patronazgo": "Teólogos y buscadores de la verdad",
+    "festividad": "28 de Agosto",
+    "frase": "Nos hiciste, Señor, para ti, y nuestro corazón está inquieto hasta que descanse en ti.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Saint_Augustine_by_Philippe_de_Champaigne.jpg/800px-Saint_Augustine_by_Philippe_de_Champaigne.jpg"
+  },
+  {
+    "nombre": "Santo Tomás de Aquino",
+    "patronazgo": "Estudiantes, universidades y académicos",
+    "festividad": "28 de Enero",
+    "frase": "Para aquel que tiene fe, no es necesaria ninguna explicación. Para aquel sin fe, ninguna explicación es posible.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/St-thomas-aquinas.jpg/800px-St-thomas-aquinas.jpg"
+  },
+  {
+    "nombre": "San Antonio de Padua",
+    "patronazgo": "Cosas perdidas, mujeres embarazadas y buscar pareja",
+    "festividad": "13 de Junio",
+    "frase": "Las acciones hablan más fuerte que las palabras. Deja que tus palabras enseñen y tus acciones hablen.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/San_Antonio_de_Padua.jpg/800px-San_Antonio_de_Padua.jpg"
+  },
+  {
+    "nombre": "Santa Teresa de Ávila",
+    "patronazgo": "Escritores, enfermos y personas con dolores de cabeza",
+    "festividad": "15 de Octubre",
+    "frase": "Nada te turbe, nada te espante, todo se pasa, Dios no se muda, la paciencia todo lo alcanza.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Teresa_of_Avila_by_Rubens.jpg/800px-Teresa_of_Avila_by_Rubens.jpg"
+  },
+  {
+    "nombre": "San Juan de la Cruz",
+    "patronazgo": "Poetas, místicos y contemplativos",
+    "festividad": "14 de Diciembre",
+    "frase": "Al atardecer de la vida, seremos juzgados en el amor.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/San_Juan_de_la_Cruz.jpg/800px-San_Juan_de_la_Cruz.jpg"
+  },
+  {
+    "nombre": "San Ignacio de Loyola",
+    "patronazgo": "Ejercicios espirituales, soldados y jesuitas",
+    "festividad": "31 de Julio",
+    "frase": "Actúa como si todo dependiera de ti, confía como si todo dependiera de Dios.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ignatius_Loyola.jpg/800px-Ignatius_Loyola.jpg"
+  },
+  {
+    "nombre": "San Benito de Nursia",
+    "patronazgo": "Europa, monjes y contra envenenamientos",
+    "festividad": "11 de Julio",
+    "frase": "Ora et labora. Reza y trabaja.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/St_Benedict_of_Nursia.jpg/800px-St_Benedict_of_Nursia.jpg"
+  },
+  {
+    "nombre": "San Patricio",
+    "patronazgo": "Irlanda e ingenieros",
+    "festividad": "17 de Marzo",
+    "frase": "Cristo conmigo, Cristo delante de mí, Cristo detrás de mí, Cristo en mí.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Saint_Patrick_stained_glass.jpg/800px-Saint_Patrick_stained_glass.jpg"
+  },
+  {
+    "nombre": "San José",
+    "patronazgo": "Padres, carpinteros, trabajadores y la Iglesia Universal",
+    "festividad": "19 de Marzo",
+    "frase": "Su vida fue un continuo acto de fe y obediencia en el silencio.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Saint_Joseph_with_the_Infant_Jesus.jpg/800px-Saint_Joseph_with_the_Infant_Jesus.jpg"
+  },
+  {
+    "nombre": "San Pedro",
+    "patronazgo": "Pescadores, cerrajeros y Papas",
+    "festividad": "29 de Junio",
+    "frase": "Señor, ¿a quién iremos? Tú tienes palabras de vida eterna.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Saint_Peter_by_Rubens.jpg/800px-Saint_Peter_by_Rubens.jpg"
+  },
+  {
+    "nombre": "San Pablo",
+    "patronazgo": "Misioneros, teólogos y evangelizadores",
+    "festividad": "29 de Junio",
+    "frase": "Ya no vivo yo, es Cristo quien vive en mí.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Saint_Paul_by_El_Greco.jpg/800px-Saint_Paul_by_El_Greco.jpg"
+  },
+  {
+    "nombre": "San Juan Apóstol",
+    "patronazgo": "Teólogos, escritores y editores",
+    "festividad": "27 de Diciembre",
+    "frase": "Dios es amor, y el que permanece en el amor permanece en Dios.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Saint_John_the_Evangelist_by_Domenichino.jpg/800px-Saint_John_the_Evangelist_by_Domenichino.jpg"
+  },
+  {
+    "nombre": "Santiago el Mayor",
+    "patronazgo": "España, peregrinos y veterinarios",
+    "festividad": "25 de Julio",
+    "frase": "La fe sin obras está muerta.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Saint_James_the_Great.jpg/800px-Saint_James_the_Great.jpg"
+  },
+  {
+    "nombre": "San Mateo",
+    "patronazgo": "Banqueros, contables y recaudadores de impuestos",
+    "festividad": "21 de Septiembre",
+    "frase": "Dejándolo todo, se levantó y le siguió.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Saint_Matthew_by_Caravaggio.jpg/800px-Saint_Matthew_by_Caravaggio.jpg"
+  },
+  {
+    "nombre": "San Lucas",
+    "patronazgo": "Médicos, cirujanos, artistas y pintores",
+    "festividad": "18 de Octubre",
+    "frase": "Porque para Dios no hay nada imposible.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Saint_Luke_painting_the_Virgin.jpg/800px-Saint_Luke_painting_the_Virgin.jpg"
+  },
+  {
+    "nombre": "Santa María Magdalena",
+    "patronazgo": "Mujeres arrepentidas, perfumistas y peluqueros",
+    "festividad": "22 de Julio",
+    "frase": "¡He visto al Señor!",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Mary_Magdalene_by_Titian.jpg/800px-Mary_Magdalene_by_Titian.jpg"
+  },
+  {
+    "nombre": "San Esteban",
+    "patronazgo": "Diáconos, albañiles y mártires",
+    "festividad": "26 de Diciembre",
+    "frase": "Señor, no les tengas en cuenta este pecado.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Martyrdom_of_Saint_Stephen.jpg/800px-Martyrdom_of_Saint_Stephen.jpg"
+  },
+  {
+    "nombre": "San Jerónimo",
+    "patronazgo": "Traductores, bibliotecarios y arqueólogos",
+    "festividad": "30 de Septiembre",
+    "frase": "Ignorar las Escrituras es ignorar a Cristo.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Saint_Jerome_in_His_Study.jpg/800px-Saint_Jerome_in_His_Study.jpg"
+  },
+  {
+    "nombre": "San Ambrosio",
+    "patronazgo": "Apicultores, obispos y estudiantes",
+    "festividad": "7 de Diciembre",
+    "frase": "Cuando estés en Roma, vive como los romanos; cuando estés en otro lugar, vive como se vive allí.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Saint_Ambrose_by_Goya.jpg/800px-Saint_Ambrose_by_Goya.jpg"
+  },
+  {
+    "nombre": "San Gregorio Magno",
+    "patronazgo": "Músicos, cantantes y estudiantes",
+    "festividad": "3 de Septiembre",
+    "frase": "No permitas que las riquezas te posean; sé tú el maestro de tus riquezas.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Saint_Gregory_the_Great.jpg/800px-Saint_Gregory_the_Great.jpg"
+  },
+  {
+    "nombre": "San Basilio el Grande",
+    "patronazgo": "Rusia, administradores de hospitales y monjes orientales",
+    "festividad": "2 de Enero",
+    "frase": "El pan que guardas pertenece al hambriento.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Saint_Basil_the_Great.jpg/800px-Saint_Basil_the_Great.jpg"
+  },
+  {
+    "nombre": "San Juan Crisóstomo",
+    "patronazgo": "Predicadores, oradores y conferenciantes",
+    "festividad": "13 de Septiembre",
+    "frase": "La oración es la luz del alma, el verdadero conocimiento de Dios.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/John_Chrysostom.jpg/800px-John_Chrysostom.jpg"
+  },
+  {
+    "nombre": "San Atanasio",
+    "patronazgo": "Teólogos ortodoxos",
+    "festividad": "2 de Mayo",
+    "frase": "El Hijo de Dios se hizo hombre para que nosotros pudiéramos llegar a ser Dios.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Athanasius_of_Alexandria.jpg/800px-Athanasius_of_Alexandria.jpg"
+  },
+  {
+    "nombre": "Santa Catalina de Siena",
+    "patronazgo": "Italia, Europa y prevención de incendios",
+    "festividad": "29 de Abril",
+    "frase": "Si sois lo que debéis ser, prenderéis fuego al mundo entero.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Catherine_of_Siena.jpg/800px-Catherine_of_Siena.jpg"
+  },
+  {
+    "nombre": "Santa Teresa de Lisieux",
+    "patronazgo": "Misioneros, floristas y aviadores",
+    "festividad": "1 de Octubre",
+    "frase": "Pasaré mi cielo haciendo el bien en la tierra.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Therese_of_Lisieux.jpg/800px-Therese_of_Lisieux.jpg"
+  },
+  {
+    "nombre": "San Juan Bosco",
+    "patronazgo": "Jóvenes, aprendices y editores",
+    "festividad": "31 de Enero",
+    "frase": "No basta con amar a los jóvenes, es preciso que ellos se den cuenta de que son amados.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/San_Juan_Bosco.jpg/800px-San_Juan_Bosco.jpg"
+  },
+  {
+    "nombre": "San Vicente de Paúl",
+    "patronazgo": "Obras de caridad, hospitales y prisioneros",
+    "festividad": "27 de Septiembre",
+    "frase": "La caridad es el centro que une a la comunidad con Dios.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Vincent_de_Paul.jpg/800px-Vincent_de_Paul.jpg"
+  },
+  {
+    "nombre": "San Pío de Pietrelcina",
+    "patronazgo": "Adolescentes, voluntarios y defensa civil",
+    "festividad": "23 de Septiembre",
+    "frase": "Reza, espera y no te preocupes. La preocupación es inútil.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Padre_Pio_da_Pietrelcina.jpg/800px-Padre_Pio_da_Pietrelcina.jpg"
+  },
+  {
+    "nombre": "Santa Teresa de Calcuta",
+    "patronazgo": "Pobres, marginados y Jornada Mundial de la Juventud",
+    "festividad": "5 de Septiembre",
+    "frase": "No podemos hacer grandes cosas, solo cosas pequeñas con gran amor.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Mother_Teresa_1.jpg/800px-Mother_Teresa_1.jpg"
+  },
+  {
+    "nombre": "San Juan Pablo II",
+    "patronazgo": "Jóvenes, familias y la Jornada Mundial de la Juventud",
+    "festividad": "22 de Octubre",
+    "frase": "¡No tengáis miedo! ¡Abrid de par en par las puertas a Cristo!",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/John_Paul_II.jpg/800px-John_Paul_II.jpg"
+  },
+  {
+    "nombre": "San Maximiliano Kolbe",
+    "patronazgo": "Periodistas, presos políticos y familias",
+    "festividad": "14 de Agosto",
+    "frase": "El odio no es fuerza creativa; solo el amor es fuerza creativa.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Maximilian_Kolbe.jpg/800px-Maximilian_Kolbe.jpg"
+  },
+  {
+    "nombre": "Santa Faustina Kowalska",
+    "patronazgo": "La Divina Misericordia",
+    "festividad": "5 de Octubre",
+    "frase": "Oh Dios mío, aunque mis miserias son grandes, confío en tu infinita misericordia.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Faustina_Kowalska.jpg/800px-Faustina_Kowalska.jpg"
+  },
+  {
+    "nombre": "San Óscar Romero",
+    "patronazgo": "América, defensores de los derechos humanos",
+    "festividad": "24 de Marzo",
+    "frase": "Si me matan, resucitaré en el pueblo salvadoreño.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Oscar_Romero.jpg/800px-Oscar_Romero.jpg"
+  },
+  {
+    "nombre": "San Judas Tadeo",
+    "patronazgo": "Causas perdidas, desesperadas e imposibles",
+    "festividad": "28 de Octubre",
+    "frase": "Manteneos en el amor de Dios, esperando la misericordia de nuestro Señor Jesús.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Jude_the_Apostle.jpg/800px-Jude_the_Apostle.jpg"
+  },
+  {
+    "nombre": "Santa Rita de Casia",
+    "patronazgo": "Causas desesperadas, matrimonios con problemas y paz",
+    "festividad": "22 de Mayo",
+    "frase": "Nunca es tarde para el arrepentimiento y la paz del alma.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Rita_of_Cascia.jpg/800px-Rita_of_Cascia.jpg"
+  },
+  {
+    "nombre": "San Expedito",
+    "patronazgo": "Causas urgentes, justas y rápidas",
+    "festividad": "19 de Abril",
+    "frase": "¡Hodie! No dejes para mañana lo que puedas hacer hoy por Dios.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Saint_Expeditus.jpg/800px-Saint_Expeditus.jpg"
+  },
+  {
+    "nombre": "San Pancracio",
+    "patronazgo": "Trabajo, salud y jóvenes",
+    "festividad": "12 de Mayo",
+    "frase": "Mantén la fe intacta hasta el final de tus días.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Saint_Pancras.jpg/800px-Saint_Pancras.jpg"
+  },
+  {
+    "nombre": "San Cristóbal",
+    "patronazgo": "Viajeros, conductores y peregrinos",
+    "festividad": "10 de Julio",
+    "frase": "Sirve al Rey más grande de todos.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Saint_Christopher.jpg/800px-Saint_Christopher.jpg"
+  },
+  {
+    "nombre": "San Sebastián",
+    "patronazgo": "Atletas, soldados y contra plagas",
+    "festividad": "20 de Enero",
+    "frase": "Prefiero la milicia de Cristo a los honores de Roma.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/San_Sebastian_Mantegna.jpg/800px-San_Sebastian_Mantegna.jpg"
+  },
+  {
+    "nombre": "San Roque",
+    "patronazgo": "Perros, epidemias y solteros",
+    "festividad": "16 de Agosto",
+    "frase": "Quien me invoque en la peste será liberado por la gracia de Dios.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Saint_Roch.jpg/800px-Saint_Roch.jpg"
+  },
+  {
+    "nombre": "San Blas",
+    "patronazgo": "Enfermedades de la garganta, otorrinolaringólogos",
+    "festividad": "3 de Febrero",
+    "frase": "Que Dios te libre de los males de la garganta y de cualquier otro mal.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Saint_Blaise.jpg/800px-Saint_Blaise.jpg"
+  },
+  {
+    "nombre": "San Lorenzo",
+    "patronazgo": "Cocineros, comediantes y diáconos",
+    "festividad": "10 de Agosto",
+    "frase": "Dadle la vuelta, por este lado ya estoy asado.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/St_Lawrence_Zurbaran.jpg/800px-St_Lawrence_Zurbaran.jpg"
+  },
+  {
+    "nombre": "Santa Lucía",
+    "patronazgo": "Enfermedades de los ojos, ciegos y escritores",
+    "festividad": "13 de Diciembre",
+    "frase": "Los que viven castamente son templos del Espíritu Santo.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Saint_Lucy.jpg/800px-Saint_Lucy.jpg"
+  },
+  {
+    "nombre": "Santa Inés",
+    "patronazgo": "Jóvenes, pureza y novios",
+    "festividad": "21 de Enero",
+    "frase": "Cristo es mi único esposo; Él me eligió primero y yo le pertenezco.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Saint_Agnes.jpg/800px-Saint_Agnes.jpg"
+  },
+  {
+    "nombre": "Santa Cecilia",
+    "patronazgo": "Músicos, poetas y cantantes",
+    "festividad": "22 de Noviembre",
+    "frase": "Señor, que mi corazón y mi carne se mantengan puros para que no sea yo confundida.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Saint_Cecilia_Artemisia_Gentileschi.jpg/800px-Saint_Cecilia_Artemisia_Gentileschi.jpg"
+  },
+  {
+    "nombre": "Santa Bárbara",
+    "patronazgo": "Mineros, artilleros y contra las tormentas",
+    "festividad": "4 de Diciembre",
+    "frase": "Líbrame, Señor, de la tempestad, del rayo y de la muerte repentina.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Saint_Barbara.jpg/800px-Saint_Barbara.jpg"
+  },
+  {
+    "nombre": "Santa Rosa de Lima",
+    "patronazgo": "América, Filipinas y jardineros",
+    "festividad": "23 de Agosto",
+    "frase": "Fuera de la cruz no hay otra escalera por donde subir al cielo.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Rose_of_Lima.jpg/800px-Rose_of_Lima.jpg"
+  },
+  {
+    "nombre": "San Martín de Porres",
+    "patronazgo": "Justicia social, peluqueros y personas de raza mixta",
+    "festividad": "3 de Noviembre",
+    "frase": "Todo, hasta la escoba, es un instrumento para llegar a Dios.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Martin_de_Porres.jpg/800px-Martin_de_Porres.jpg"
+  },
+  {
+    "nombre": "San Toribio de Mogrovejo",
+    "patronazgo": "Obispos latinoamericanos y defensores de los indígenas",
+    "festividad": "23 de Marzo",
+    "frase": "El tiempo no es nuestro, debemos dar cuenta estricta de él a Dios.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Turibius_of_Mogrovejo.jpg/800px-Turibius_of_Mogrovejo.jpg"
+  },
+  {
+    "nombre": "San Pedro Claver",
+    "patronazgo": "Esclavos, afroamericanos y derechos humanos",
+    "festividad": "9 de Septiembre",
+    "frase": "Esclavo de los esclavos para siempre.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Peter_Claver.jpg/800px-Peter_Claver.jpg"
+  },
+  {
+    "nombre": "San Alberto Hurtado",
+    "patronazgo": "Trabajadores, pobres y justicia social",
+    "festividad": "18 de Agosto",
+    "frase": "Contentos, Señor, contentos.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Alberto_Hurtado.jpg/800px-Alberto_Hurtado.jpg"
+  },
+  {
+    "nombre": "Santa Teresa de Los Andes",
+    "patronazgo": "Jóvenes chilenos y enfermos",
+    "festividad": "13 de Julio",
+    "frase": "Dios es alegría infinita.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Teresa_of_the_Andes.jpg/800px-Teresa_of_the_Andes.jpg"
+  },
+  {
+    "nombre": "San Luis Rey de Francia",
+    "patronazgo": "Reyes, albañiles y peluqueros",
+    "festividad": "25 de Agosto",
+    "frase": "Prefiero que un extranjero venga y gobierne el reino, antes que tú lo gobiernes mal.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Louis_IX_of_France.jpg/800px-Louis_IX_of_France.jpg"
+  },
+  {
+    "nombre": "San Fernando Rey de España",
+    "patronazgo": "Ingenieros, España y cautivos",
+    "festividad": "30 de Mayo",
+    "frase": "Tú, Señor, conoces mi corazón.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Ferdinand_III_of_Castile.jpg/800px-Ferdinand_III_of_Castile.jpg"
+  },
+  {
+    "nombre": "Santo Tomás Moro",
+    "patronazgo": "Políticos, gobernantes y abogados",
+    "festividad": "22 de Junio",
+    "frase": "Muero siendo un buen siervo del Rey, pero primero de Dios.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Thomas_More_Holbein.jpg/800px-Thomas_More_Holbein.jpg"
+  },
+  {
+    "nombre": "San Valentín",
+    "patronazgo": "Enamorados, matrimonios y apicultores",
+    "festividad": "14 de Febrero",
+    "frase": "El amor es la fuerza más grande y la única salvación del mundo.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Saint_Valentine.jpg/800px-Saint_Valentine.jpg"
+  },
+  {
+    "nombre": "San Nicolás de Bari",
+    "patronazgo": "Niños, marineros y prestamistas",
+    "festividad": "6 de Diciembre",
+    "frase": "Quien tiene mucho debe compartir con quien no tiene nada.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Saint_Nicholas.jpg/800px-Saint_Nicholas.jpg"
+  },
+  {
+    "nombre": "San Martín de Tours",
+    "patronazgo": "Soldados, mendigos y Francia",
+    "festividad": "11 de Noviembre",
+    "frase": "Señor, si aún soy necesario a tu pueblo, no rechazo el trabajo.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Saint_Martin_of_Tours.jpg/800px-Saint_Martin_of_Tours.jpg"
+  },
+  {
+    "nombre": "San Jorge",
+    "patronazgo": "Scouts, soldados e Inglaterra",
+    "festividad": "23 de Abril",
+    "frase": "No hay dragón que la verdadera fe no pueda vencer.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Saint_George_and_the_Dragon.jpg/800px-Saint_George_and_the_Dragon.jpg"
+  },
+  {
+    "nombre": "Santa Mónica",
+    "patronazgo": "Madres, mujeres casadas y víctimas de abuso",
+    "festividad": "27 de Agosto",
+    "frase": "Nada está lejos de Dios.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Saint_Monica.jpg/800px-Saint_Monica.jpg"
+  },
+  {
+    "nombre": "Santa Elena",
+    "patronazgo": "Arqueólogos, conversos y divorciados",
+    "festividad": "18 de Agosto",
+    "frase": "En la cruz está la victoria y la salvación verdadera.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Helena_of_Constantinople.jpg/800px-Helena_of_Constantinople.jpg"
+  },
+  {
+    "nombre": "San Juan Diego",
+    "patronazgo": "Pueblos indígenas de las Américas",
+    "festividad": "9 de Diciembre",
+    "frase": "¿No estoy yo aquí, que soy tu madre?",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Juan_Diego.jpg/800px-Juan_Diego.jpg"
+  },
+  {
+    "nombre": "Santa Bernadette Soubirous",
+    "patronazgo": "Pastores, enfermos de asma y Lourdes",
+    "festividad": "16 de Abril",
+    "frase": "No estoy encargada de hacéroslo creer, estoy encargada de decíroslo.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Bernadette_Soubirous.jpg/800px-Bernadette_Soubirous.jpg"
+  },
+  {
+    "nombre": "San Juan María Vianney (Cura de Ars)",
+    "patronazgo": "Párrocos y confesores",
+    "festividad": "4 de Agosto",
+    "frase": "El sacerdocio es el amor del corazón de Jesús.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/John_Vianney.jpg/800px-John_Vianney.jpg"
+  },
+  {
+    "nombre": "San Luis Gonzaga",
+    "patronazgo": "Jóvenes estudiantes y pacientes de SIDA",
+    "festividad": "21 de Junio",
+    "frase": "Soy un pedazo de hierro torcido, necesito entrar en el fuego para enderezarme.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Aloysius_Gonzaga.jpg/800px-Aloysius_Gonzaga.jpg"
+  },
+  {
+    "nombre": "San Juan de Dios",
+    "patronazgo": "Enfermeros, hospitales y vendedores de libros",
+    "festividad": "8 de Marzo",
+    "frase": "Haced el bien, hermanos, hacéoslo a vosotros mismos.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/John_of_God.jpg/800px-John_of_God.jpg"
+  },
+  {
+    "nombre": "Santa Clara de Asís",
+    "patronazgo": "Televisión, telecomunicaciones y clarisas",
+    "festividad": "11 de Agosto",
+    "frase": "Mírate cada día en el espejo de la pobreza, la humildad y la caridad.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Clare_of_Assisi.jpg/800px-Clare_of_Assisi.jpg"
+  },
+  {
+    "nombre": "Santa Brígida de Suecia",
+    "patronazgo": "Europa y viudas",
+    "festividad": "23 de Julio",
+    "frase": "Señor, muéstrame el camino y hazme dispuesta a recorrerlo.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Bridget_of_Sweden.jpg/800px-Bridget_of_Sweden.jpg"
+  },
+  {
+    "nombre": "San Charbel Makhlouf",
+    "patronazgo": "Líbano y unidad de los cristianos",
+    "festividad": "24 de Julio",
+    "frase": "El amor es el único tesoro que se multiplica al dividirse.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Charbel_Makhlouf.jpg/800px-Charbel_Makhlouf.jpg"
+  },
+  {
+    "nombre": "San Alberto Magno",
+    "patronazgo": "Científicos, filósofos y estudiantes de ciencias",
+    "festividad": "15 de Noviembre",
+    "frase": "En la investigación de la naturaleza no nos preguntamos qué hace Dios, sino qué nos muestra la naturaleza.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Albertus_Magnus.jpg/800px-Albertus_Magnus.jpg"
+  },
+  {
+    "nombre": "San Alfonso María de Ligorio",
+    "patronazgo": "Confesores, moralistas y artríticos",
+    "festividad": "1 de Agosto",
+    "frase": "El que ora se salva, el que no ora se condena.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Alphonsus_Liguori.jpg/800px-Alphonsus_Liguori.jpg"
+  },
+  {
+    "nombre": "San Francisco de Sales",
+    "patronazgo": "Periodistas, escritores y educadores",
+    "festividad": "24 de Enero",
+    "frase": "Todo por amor, nada por la fuerza.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Francis_de_Sales.jpg/800px-Francis_de_Sales.jpg"
+  },
+  {
+    "nombre": "San Felipe Neri",
+    "patronazgo": "Humoristas, educadores y fuerzas especiales",
+    "festividad": "26 de Mayo",
+    "frase": "Tristeza y melancolía, fuera de la casa mía.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Philip_Neri.jpg/800px-Philip_Neri.jpg"
+  },
+  {
+    "nombre": "San Camilo de Lelis",
+    "patronazgo": "Enfermos, hospitales y enfermeros",
+    "festividad": "14 de Julio",
+    "frase": "Pon más corazón en esas manos.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Camillus_de_Lellis.jpg/800px-Camillus_de_Lellis.jpg"
+  },
+  {
+    "nombre": "San Juan Bautista de La Salle",
+    "patronazgo": "Maestros y educadores",
+    "festividad": "7 de Abril",
+    "frase": "La instrucción es el cimiento de toda vida virtuosa.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Jean-Baptiste_de_La_Salle.jpg/800px-Jean-Baptiste_de_La_Salle.jpg"
+  },
+  {
+    "nombre": "Santa Gianna Beretta Molla",
+    "patronazgo": "Madres, médicos y niños por nacer",
+    "festividad": "28 de Abril",
+    "frase": "Amar es hacer la voluntad de Dios llenos de alegría.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Gianna_Beretta_Molla.jpg/800px-Gianna_Beretta_Molla.jpg"
+  },
+  {
+    "nombre": "San José Sánchez del Río",
+    "patronazgo": "Jóvenes mártires y acólitos",
+    "festividad": "10 de Febrero",
+    "frase": "¡Viva Cristo Rey y la Virgen de Guadalupe!",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Jose_Sanchez_del_Rio.jpg/800px-Jose_Sanchez_del_Rio.jpg"
+  },
+  {
+    "nombre": "San José de Cupertino",
+    "patronazgo": "Estudiantes en examen, aviadores y viajeros espaciales",
+    "festividad": "18 de Septiembre",
+    "frase": "Quien tiene paciencia, todo lo alcanza.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Joseph_of_Cupertino.jpg/800px-Joseph_of_Cupertino.jpg"
+  },
+  {
+    "nombre": "San Vicente Ferrer",
+    "patronazgo": "Constructores, pescadores y reconciliación",
+    "festividad": "5 de Abril",
+    "frase": "La humildad es la llave que abre todas las puertas.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Vincent_Ferrer.jpg/800px-Vincent_Ferrer.jpg"
+  },
+  {
+    "nombre": "San Pascual Bailón",
+    "patronazgo": "Congresos Eucarísticos y cocineros",
+    "festividad": "17 de Mayo",
+    "frase": "Ante el Sagrario encuentro mi paraíso.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Paschal_Baylon.jpg/800px-Paschal_Baylon.jpg"
+  },
+  {
+    "nombre": "San Ramón Nonato",
+    "patronazgo": "Embarazadas, partos y matronas",
+    "festividad": "31 de Agosto",
+    "frase": "Dar la vida por redimir a los cautivos es el mayor acto de caridad.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Raymond_Nonnatus.jpg/800px-Raymond_Nonnatus.jpg"
+  },
+  {
+    "nombre": "Santa Escolástica",
+    "patronazgo": "Monjas, contra tormentas y lluvia",
+    "festividad": "10 de Febrero",
+    "frase": "Pude más porque amé más.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Saint_Scholastica.jpg/800px-Saint_Scholastica.jpg"
+  },
+  {
+    "nombre": "Santa Margarita María de Alacoque",
+    "patronazgo": "Devotos del Sagrado Corazón y huérfanos",
+    "festividad": "16 de Octubre",
+    "frase": "He aquí este corazón que ha amado tanto a los hombres.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Margaret_Mary_Alacoque.jpg/800px-Margaret_Mary_Alacoque.jpg"
+  },
+  {
+    "nombre": "San Roberto Belarmino",
+    "patronazgo": "Catequistas, apologistas y abogados eclesiásticos",
+    "festividad": "17 de Septiembre",
+    "frase": "La caridad es la medida de la santidad.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Robert_Bellarmine.jpg/800px-Robert_Bellarmine.jpg"
+  },
+  {
+    "nombre": "Santa Juana de Arco",
+    "patronazgo": "Francia, militares y prisioneros",
+    "festividad": "30 de Mayo",
+    "frase": "Actúa y Dios actuará.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Joan_of_Arc.jpg/800px-Joan_of_Arc.jpg"
+  },
+  {
+    "nombre": "San Damián de Molokai",
+    "patronazgo": "Leprosos, marginados y Hawaii",
+    "festividad": "10 de Mayo",
+    "frase": "Ahora soy un leproso con los leprosos para ganar a todos para Cristo.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Father_Damien.jpg/800px-Father_Damien.jpg"
+  },
+  {
+    "nombre": "San Carlos Borromeo",
+    "patronazgo": "Catequistas, seminaristas y obispos",
+    "festividad": "4 de Noviembre",
+    "frase": "Las almas se ganan de rodillas.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Charles_Borromeo.jpg/800px-Charles_Borromeo.jpg"
+  },
+  {
+    "nombre": "San Eduardo el Confesor",
+    "patronazgo": "Reyes, matrimonios difíciles e Inglaterra",
+    "festividad": "13 de Octubre",
+    "frase": "La verdadera realeza es servir a Dios con humildad.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Edward_the_Confessor.jpg/800px-Edward_the_Confessor.jpg"
+  },
+  {
+    "nombre": "Santa Margarita de Escocia",
+    "patronazgo": "Familias numerosas, reinas y Escocia",
+    "festividad": "16 de Noviembre",
+    "frase": "Educar a los hijos en la fe es el mayor tesoro que puede dejar una madre.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Margaret_of_Scotland.jpg/800px-Margaret_of_Scotland.jpg"
+  },
+  {
+    "nombre": "San Buenaventura",
+    "patronazgo": "Teólogos, franciscanos y trabajadores",
+    "festividad": "15 de Julio",
+    "frase": "Nadie es verdaderamente sabio si no es humilde.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Bonaventure.jpg/800px-Bonaventure.jpg"
+  },
+  {
+    "nombre": "San Cirilo de Jerusalén",
+    "patronazgo": "Catecúmenos y predicadores",
+    "festividad": "18 de Marzo",
+    "frase": "El bautismo es el principio de la vida nueva en Cristo.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Cyril_of_Jerusalem.jpg/800px-Cyril_of_Jerusalem.jpg"
+  },
+  {
+    "nombre": "San León Magno",
+    "patronazgo": "Papas, comunicadores y contra invasores",
+    "festividad": "10 de Noviembre",
+    "frase": "Reconoce, cristiano, tu dignidad.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Pope_Leo_I.jpg/800px-Pope_Leo_I.jpg"
+  },
+  {
+    "nombre": "Santa Hildegarda de Bingen",
+    "patronazgo": "Ecologistas, músicos y filólogos",
+    "festividad": "17 de Septiembre",
+    "frase": "El ser humano es el espejo de todas las maravillas de Dios.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Hildegard_von_Bingen.jpg/800px-Hildegard_von_Bingen.jpg"
+  },
+  {
+    "nombre": "San Isidro Labrador",
+    "patronazgo": "Agricultores, campesinos y Madrid",
+    "festividad": "15 de Mayo",
+    "frase": "Trabaja el campo, pero no olvides cultivar el alma para Dios.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Isidore_the_Laborer.jpg/800px-Isidore_the_Laborer.jpg"
+  },
+  {
+    "nombre": "Santa Catalina Labouré",
+    "patronazgo": "Ancianos y la Medalla Milagrosa",
+    "festividad": "28 de Noviembre",
+    "frase": "Hay que rezar con confianza y sencillez como los niños.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Catherine_Laboure.jpg/800px-Catherine_Laboure.jpg"
+  },
+  {
+    "nombre": "San Luis María Grignion de Montfort",
+    "patronazgo": "Predicadores y la consagración mariana",
+    "festividad": "28 de Abril",
+    "frase": "A Jesús por María.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Louis_de_Montfort.jpg/800px-Louis_de_Montfort.jpg"
+  },
+  {
+    "nombre": "Santa María Goretti",
+    "patronazgo": "Adolescentes, pureza y víctimas de crímenes",
+    "festividad": "6 de Julio",
+    "frase": "Lo perdono por amor a Jesús y quiero que esté conmigo en el paraíso.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Maria_Goretti.jpg/800px-Maria_Goretti.jpg"
+  },
+  {
+    "nombre": "San Pedro Damián",
+    "patronazgo": "Renovación de la Iglesia y monjes contemplativos",
+    "festividad": "21 de Febrero",
+    "frase": "La penitencia es la medicina del alma para acercarse al Creador.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Peter_Damian.jpg/800px-Peter_Damian.jpg"
+  },
+  {
+    "nombre": "San Clemente Romano",
+    "patronazgo": "Marineros, canteros y trabajadores del mármol",
+    "festividad": "23 de Noviembre",
+    "frase": "Guardemos la caridad, porque es el vínculo perfecto de la paz y de la perfección.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Pope_Clement_I.jpg/800px-Pope_Clement_I.jpg"
   }
 ]
